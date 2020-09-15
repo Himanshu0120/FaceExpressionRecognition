@@ -1,2 +1,5 @@
 # FaceExpressionRecognition
- Computer Vision project to recognize facial expressions.
+ Recognizing different facial expressions using image classification and OpenCv.
+ 
+ ### Process involved here is -
+ * ##Training the model
